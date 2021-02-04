@@ -45,7 +45,7 @@ class _NoteState extends State<Note> {
                 decoration: InputDecoration(
                   hintText: 'Title',
                   hintStyle: TextStyle(
-                      fontSize: 30,
+                      fontSize: 20,
                       fontStyle: FontStyle.normal,
                       fontWeight: FontWeight.bold,
                       color: Colors.deepPurple),
